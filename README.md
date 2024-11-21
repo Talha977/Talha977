@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **My code runs better with coffee! ☕🚀**
 
+[![Talha977's GitHub | Stats](https://stats.quira.sh/Talha977/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Talha977)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-talha-asif-a68145137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-talha-asif-a68145137" height="30" width="40" /></a>
