@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **talha.asif@ymail.com**
 
-- ⚡ Fun fact **My code runs better with coffee! ☕🚀**
+- ⚡ Fun fact **I can debug code faster than I can finish my coffee! ☕🚀 ☕🚀**
 
 [![Talha977's GitHub | Stats](https://stats.quira.sh/Talha977/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Talha977)
 
